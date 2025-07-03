@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #ffffff;
+  color: #333;
+  scroll-behavior: smooth;
+}
+header {
+  background-color: #f7f7f7;
+  color: #222;
+  padding: 40px 20px;
+  text-align: center;
+}
+header h1 span {
+  color: #005f73;
+}
+nav a {
+  margin: 0 15px;
+  color: #0077b6;
+  text-decoration: none;
+}
+.hero {
+  padding: 60px 20px;
+  text-align: center;
+  background-color: #ffffff;
+}
+footer {
+  background-color: #f7f7f7;
+  color: #222;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+a {
+  color: #0077b6;
+}
